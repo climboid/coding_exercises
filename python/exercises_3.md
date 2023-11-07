@@ -1,4 +1,4 @@
-Certainly! Here are three challenging Python coding exercises at varying difficulty levels, along with the topics they test and their answers:
+
 
 **Topic: File Handling and Text Manipulation**
 

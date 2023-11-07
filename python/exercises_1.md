@@ -1,4 +1,3 @@
-Certainly! Here are three Python coding exercises at different difficulty levels, along with the topics they test and their answers:
 
 **Topic: Basic Input and Output**
 

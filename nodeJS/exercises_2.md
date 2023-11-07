@@ -1,4 +1,4 @@
-Certainly! Here are three Node.js coding exercises at different difficulty levels, along with the topics they test and their answers:
+
 
 **Topic: Creating a Basic Web Server**
 
