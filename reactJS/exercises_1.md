@@ -22,5 +22,3 @@ Create a React component called `Counter` that displays a number and two buttons
 Create a React component called `TodoList` that manages a list of tasks. Each task should have a title and a completion status. Implement the ability to add new tasks, mark tasks as complete, and filter tasks based on their completion status (e.g., show all tasks, show only completed tasks, show only incomplete tasks).
 
 
-
-These ReactJS exercises cover a range of topics, from creating basic components and using state to more advanced tasks involving props, event handling, and state management for a todo list application.
