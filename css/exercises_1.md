@@ -1,6 +1,6 @@
 
 
-**Topic: Basic CSS Styling**
+###Topic: Basic CSS Styling
 
 **Exercise:**
 Create an HTML element, such as a `<div>`, and apply the following styles to it:
@@ -11,7 +11,7 @@ Create an HTML element, such as a `<div>`, and apply the following styles to it:
 
 
 
-**Topic: CSS Flexbox Layout**
+###Topic: CSS Flexbox Layout
 
 **Exercise:**
 Create an HTML page that displays a navigation bar and a content section. Use CSS Flexbox to achieve the following layout:
@@ -21,7 +21,7 @@ Create an HTML page that displays a navigation bar and a content section. Use CS
 
 
 
-**Topic: CSS Grid Layout**
+###Topic: CSS Grid Layout
 
 **Exercise:**
 Create an HTML page with a CSS grid layout that displays a 3x3 grid of images. Each image should have a title below it. Use CSS Grid to arrange the images and titles evenly within the grid, making sure they maintain their aspect ratios. The images and titles should be centered within their grid cells.

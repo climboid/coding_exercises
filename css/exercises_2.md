@@ -1,6 +1,6 @@
 
 
-**Topic: CSS Selectors and Box Model**
+###Topic: CSS Selectors and Box Model
 
 **Exercise:**
 Create an HTML page with a list of items (e.g., a navigation menu or a list of products). Style the list using the following requirements:
@@ -11,7 +11,7 @@ Create an HTML page with a list of items (e.g., a navigation menu or a list of p
 
 
 
-**Topic: CSS Layout and Positioning**
+###Topic: CSS Layout and Positioning
 
 **Exercise:**
 Create an HTML page with two equal-sized div elements side by side. Style the layout using the following requirements:
@@ -23,7 +23,7 @@ Create an HTML page with two equal-sized div elements side by side. Style the la
 
 
 
-**Topic: CSS Advanced Techniques**
+###Topic: CSS Advanced Techniques
 
 **Exercise:**
 Create an HTML page with a navigation menu and a content area. Style the navigation menu and content area using the following requirements:
