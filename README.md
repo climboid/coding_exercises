@@ -1,6 +1,6 @@
-#Coding Excercises
+# Coding Excercises
 
-Instructions:
+**Instructions:**
 1. You will have 2 hours to finish as much as you can
 2. Do not use codepilot or genAI (Stackoverflow/Google all you want)
 3. Clone this repository
